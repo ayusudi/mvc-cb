@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sepatu Stacattu",
+    "price": 1500000,
+    "leftOver": 5,
+    "shoppers": []
+  },
+  {
+    "name": "Baju Zoro",
+    "price": 500000,
+    "leftOver": 1,
+    "shoppers": [
+      {
+        "name": "Lisa",
+        "amountProduct": 1
+      }
+    ]
+  },
+  {
+    "name": "Sweater Uniklooh",
+    "price": 175000,
+    "leftOver": 1,
+    "shoppers": [
+      {
+        "name": "Rani",
+        "amountProduct": 1
+      }
+    ]
+  }
+]
